@@ -1,5 +1,3 @@
-from string import ascii_uppercase
-
 x = 13.25
 z = float(x) + 100
 print(z)
