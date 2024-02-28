@@ -110,7 +110,7 @@ def show_greeting(name):
     print(greeting)
 
 # your code here
-def make_greeting():
+def make_greeting(name):
     greeting = "Hello, " + name
     return greeting
     
