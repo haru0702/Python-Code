@@ -1,1 +1,1 @@
-This is the collectioon of the python exercises.
+This is the collection of the python exercises.
