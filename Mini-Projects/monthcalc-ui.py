@@ -20,7 +20,7 @@ window.config(bg="#F7DC6F")
 window.resizable(width=False,height=False)
 window.title('Month Calculator!')
 
-l1 = tk.Label(window,text="Monthsary Calculator!",font=("Courier New", 10, "bold"),fg="black",bg="#F7DC6F")
+l1 = tk.Label(window,text="Monthsary Calculator!",font=("Courier New", 18, "bold"),fg="black",bg="#F7DC6F")
 l2 = tk.Label(window,font=("Courier New",10),text="Start date of your relationship: Day:Month:Year",fg="black",bg="#F7DC6F")
 
 l_d=tk.Label(window,text="Date: ",font=('Courier New',12,"bold"),fg="darkgreen",bg="#F7DC6F")
